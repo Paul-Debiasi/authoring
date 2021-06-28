@@ -1,5 +1,11 @@
 # authoring
 
+## [External Link](#External-Link)
+## [Internal Link](#Internal-Link)
+## [Images](#Images)
+## [Emojis](#Emojis)
+## [Table](#Table)
+
 [List](#List)
 
 [Anime](#Anime)
@@ -16,7 +22,7 @@
 
 - [x] Internal Link
 
-- [x] Images
+- [x] [Images](./Gif/gif-project.gif) 
 
 - [x] Emojis
 
