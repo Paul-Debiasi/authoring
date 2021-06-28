@@ -12,15 +12,15 @@
 
 ### List
 
-- [ ] External Link
+- [x] External Link
 
-- [ ] Internal Link
+- [x] Internal Link
 
-- [ ] [Images](./Gif/gif-project.gif)
+- [x] [Images](./Gif/gif-project.gif)
 
-- [ ] Emojis
+- [x] Emojis
 
-- [ ] Tables
+- [x] Tables
 
 ### Anime
 
