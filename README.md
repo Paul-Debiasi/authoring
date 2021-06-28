@@ -12,15 +12,15 @@
 
 ### List
 
-- [x] [External Link](#Github)
+- [x] External Link
 
 - [x] Internal Link
 
-- [x] [Images](./Gif/gif-project.gif)
+- [x] Images
 
-- [x] [Emojis](#stop_sign)
+- [x] Emojis
 
-- [x] [Tables](#Phone)
+- [x] Table
 
 ### Anime
 
