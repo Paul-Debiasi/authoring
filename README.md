@@ -42,5 +42,5 @@
 | +49 1577 6836787 | debiasi.paul@gmail.com |  🛑                |
 | +39 445552124454 | pablo.garcia@gmail.com |  🛑                |
 
-[port]: https://paul-debiasi.herokuapp.com/ "Porfolio" {:target="_blank"}
+[port]: https://paul-debiasi.herokuapp.com/ "Porfolio" 
 [doc]: https://help.github.com/en 
